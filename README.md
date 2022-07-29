@@ -28,8 +28,11 @@ S_ID = 200316027
 	Aynı algoritma ile çözümede ulaşıla bilir. 
 	https://github.com/corporateshark/random-maze-generator 
 
+# Örnek Graph
+
 <img src="img/graph.png" alt="">
-# Graph Sözlü Çözüm
+
+# Örnek Graph Sözlü Çözüm
 	Depth-First Search
 		Node S
 		S den başlarız, ziyater edilmemiş yer var S Stac'e atılır ve ziyaret edildi olarak işaretlenir
