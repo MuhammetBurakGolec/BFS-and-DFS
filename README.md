@@ -29,13 +29,14 @@ S_ID = 200316027
 	https://github.com/corporateshark/random-maze-generator 
 
 # Graph Sözlü Çözüm
+	<img src="img/graph.png" alt="">
 	Depth-First Search
 		Node S
 		S den başlarız, ziyater edilmemiş yer var S Stac'e atılır ve ziyaret edildi olarak işaretlenir
 		Stack('S')
 		Map('S')
 		Gidilebilecek farklı rotalar('1','2')
-
+	
 		Node 1
 		1'e gittik diyelim , 1' i Stack'e attık Ziyaret edilmemiş yerler var
 		Stack('S','1')
