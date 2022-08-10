@@ -1,7 +1,3 @@
-Muhammet Burak Göleç
-S_ID = 200316027
-
-
 # Uyarlamış Olduğum Kodun Kaynakları
 	https://github.com/CoffeeBeforeArch/cpp_data_structures/tree/master/algorithms/graph_algorithms/bfs
 	https://github.com/CoffeeBeforeArch/cpp_data_structures/tree/master/algorithms/graph_algorithms/dfs
